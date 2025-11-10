@@ -2,7 +2,7 @@
 
 We will be working on a real world dataset provided by the Chicago Data Portal wherein we will be assuming the position of Data Analyst for a non-profit organization that strives to improve educational outcomes for children and youth in the City of Chicago. We will be analysing the census, crime, and school data for a given neighborhood or district and further identify the causes that impact the enrollment, safety, health, environment ratings of schools.
 
-In this assignment, we will download the datasets provided, load them into a database, write and execute SQL queries to answer the problems provided.
+In this assignment, we downloaded the datasets provided, load them into a database, write and execute SQL queries to answer the problems provided.
 
 Using this Python notebook we will:
 
@@ -12,7 +12,7 @@ Using this Python notebook we will:
 
 # Understand the datasets
 
-To complete the assignment problems in this notebook you will be using three datasets that are available on the city of Chicago's Data Portal:
+To complete the tasks in this notebook you we used three datasets that are available on the city of Chicago's Data Portal:
 
 Socioeconomic Indicators in Chicago
 Chicago Public Schools
