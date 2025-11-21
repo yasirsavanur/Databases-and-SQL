@@ -154,7 +154,7 @@ plt.show()
 
 ## Result
 
-![alt text](Case Study: City of Chicago Data Portal/output1.png)
+![alt text](/Case Study: City of Chicago Data Portal/output1.png)
 
 With the increase in Per Capita Income, the Hardship index is decreasing. Also, we can notice that the points in scatter plot are somehow close to a straight line. Hence, two variables are strongly negative correlated.
 
